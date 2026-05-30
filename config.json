@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecerify",
+        "uuid": 5051313,
+        "checksum": "kh2m3w"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
